@@ -1,0 +1,22 @@
+{
+  "@@locale": "en",
+  "appTitle": "ShopCraft",
+  "tagline": "Your Premium Shopping Experience",
+  "signUp": "Sign Up",
+  "signIn": "Sign In",
+  "fullName": "Full Name",
+  "email": "Email",
+  "password": "Password",
+  "confirmPassword": "Confirm Password",
+  "nameError": "Enter your name",
+  "nameUppercaseError": "First letter must be uppercase",
+  "emailError": "Enter valid email",
+  "passwordError": "Password must be at least 6 characters",
+  "passwordMismatch": "Passwords do not match",
+  "accountCreated": "Account created successfully",
+  "accountSignedIn": "Account sign-in successfully",
+  "close": "Close",
+  "ourProducts": "Our Products",
+  "hotOffers": "Hot Offers",
+  "addToCart": "added to the cart"
+}
